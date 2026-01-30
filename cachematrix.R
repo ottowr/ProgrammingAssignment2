@@ -30,7 +30,7 @@ makeCacheMatrix <- function(x = matrix()) {
 
 ## Write a short comment describing this function
 
-## This functions calculates the inverse of the special matrix created by 
+## This function calculates the inverse of the special matrix created by 
 ## makeCacheMatrix. If the inverse has already been calculated, 
 ## it retrieves the cached inverse instead of recalculating it.
 
